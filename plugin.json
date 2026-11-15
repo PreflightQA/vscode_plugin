@@ -1,0 +1,12 @@
+{
+  "name": "preflight",
+  "version": "1.0.0",
+  "description": "Render and review HTML email screenshots across email clients and display modes.",
+  "author": {
+    "name": "Preflight Software Ltd",
+    "email": "hello@preflight.qa"
+  },
+  "homepage": "https://preflight.qa/",
+  "repository": "https://github.com/PreflightQA/vscode_plugin",
+  "keywords": ["email", "html", "quality-assurance", "screenshots"]
+}
