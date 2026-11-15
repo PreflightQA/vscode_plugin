@@ -1,5 +1,5 @@
 ---
-name: preflight-rendering
+name: preflight
 description: Request or review Preflight screenshots of supplied email HTML in selected email clients and modes. Use for email rendering, screenshot previews, visual comparisons and investigating rendering outliers.
 ---
 

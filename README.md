@@ -21,7 +21,7 @@ Use VS Code desktop with GitHub Copilot and read access to this repository.
 
 ## Render and review
 
-Use `/preflight-rendering` or ask Copilot to render supplied HTML or an HTML
+Use `/preflight` or ask Copilot to render supplied HTML or an HTML
 email from a workspace file. Specify the client and mode for each screenshot.
 Preflight charges one credit per accepted client and mode, including failed
 captures. Client discovery, credit checks, and result reads are free.
