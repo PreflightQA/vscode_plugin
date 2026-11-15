@@ -14,8 +14,8 @@ Use VS Code desktop with GitHub Copilot and read access to this repository.
    repository with your GitHub credentials and select that local folder.
 2. Run **Chat: Open Customizations**. In **Plugins**, check that Preflight is
    enabled. In **MCP Servers**, open the Preflight server actions and select
-   **Authenticate** if prompted. A Preflight organisation admin selects and
-   authorises the organisation in the browser.
+   **Start** or **Authenticate**. Follow the browser prompts to sign in.
+   A Preflight organisation admin selects and authorises the organisation.
 3. Ask “Which email clients and modes can I test, and how many credits do I
    have?” to verify the connection for free.
 

@@ -4,6 +4,9 @@
       "type": "http",
       "url": "https://mcp.preflight.qa",
       "tools": ["*"],
+      "headers": {
+        "X-Preflight-OAuth-Scope": "mcp:full"
+      },
       "oauthClientId": "Dsl34t04WCJyDTuDtRcSK80ctiYdbnX8SqcA4ypYs5s",
       "oauthScopes": ["mcp:full"]
     }
